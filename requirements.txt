@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+scipy
+devsim  # Optional: for TCAD simulation mode
